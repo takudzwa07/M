@@ -1,8 +1,6 @@
 module.exports = {
-  SESSION_ID: "", // Put Session Id Here Inside "*"
-  OWNER_NUMBER: "263719647303", // Put Owner Number Here 
-  PREFIX: ".", // Default Prefix You Can Change To .,*!?+-&%#@
-  CDN: "https://mrfrankk-cdn.hf.space" // Dont change this part
+  SESSION_ID: "SHABAN-MD~eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic0M4UlVnOVYzQkwxeHl2bW9BMTNSamVFY0pYYlhJeDNybjRYUFFMdUEwYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYmNNL0JpdGoyc3Q5NGRLc3p1ZDZzM0Q4Wmpha3pxYloxSThRMWZEU3MwVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJxTEZMQ0hDbmFVNjFUWWNtTGxINlNZaVpLZmJaWXp0bllrV0d0bTlQYW5BPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJKNk9ycUcxWndWS2lua00wakpnSlg5TzdrY1E2WUdHdlRVSnBCRTlScm1vPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InFQbGtTbUtlcnZlRm95VlU5WjFUekU4VjN3WVZ0QWFPZ1JLMlRidlEvVmM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImxieWF2Mk1DMzRwakhIOWp1QkNKT3VnZWJyWTl3VkpDcmo5Y1pqenp3aDQ9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUUd3V043TlkySXBIOWZUZFFmUkxXMUJxdjcrekwwRktiZ0JnTlZrNWRWRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiemVKNGVJVHdhRE55eUFNY3RQVHJaMDd3RXA2SW5ZU2UzcjdadldPdGJVYz0ifX0sInNpZ25hdHVyZSI6eyJ0eX",
+  OWNER_NUMBER: "263719647303", 
+  PREFIX: ".",
+  CDN: "https://mrfrankk-cdn.hf.space"
 };
-
-// CREATED BY DARRELL MUCHERI ( MR FRANK OFC 🇿🇼 )
